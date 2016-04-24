@@ -29,3 +29,7 @@ Filter the air to reduce pollution using activated coal
 #### [Nixie Tubes](https://forums.factorio.com/viewtopic.php?f=93&t=14671)
 
 Provides easy-to-read numbers from your circuit network
+
+#### [Tree Collision and Health](https://forums.factorio.com/viewtopic.php?f=91&t=12365)
+
+Reduces trees hitboxes and reduces their health
