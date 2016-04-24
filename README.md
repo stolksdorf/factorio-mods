@@ -1,10 +1,18 @@
 # factorio-mods
 All the mods and configuration options I like for Factorio
 
+## My Mods
+
+#### Rail Logistics
+
+#### Wind Power
+
+#### Syngas
+
+#### QuickStart
 
 
-
-## QoL Mods
+## Mods
 
 #### [Shuttle Train](http://www.factoriomods.com/mods/shuttle-train)
 
@@ -33,3 +41,15 @@ Provides easy-to-read numbers from your circuit network
 #### [Tree Collision and Health](https://forums.factorio.com/viewtopic.php?f=91&t=12365)
 
 Reduces trees hitboxes and reduces their health
+
+#### [GDIW](https://forums.factorio.com/viewtopic.php?f=92&t=15315)
+
+Swapped inputs for oil processing
+
+#### [Better Ore Map](https://forums.factorio.com/viewtopic.php?f=92&t=16472)
+
+Changes the colors of the ore map to be easier to read
+
+#### [Easy Belt Layer](https://forums.factorio.com/viewtopic.php?f=92&t=14093)
+
+Automatically changes the orientation of belts while laying them.
